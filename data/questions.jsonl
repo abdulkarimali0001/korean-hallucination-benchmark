@@ -1,0 +1,70 @@
+{"id": "F01", "type": "factual", "category": "지리", "question": "대한민국의 수도는 어디인가요?", "answers": ["서울"]}
+{"id": "F02", "type": "factual", "category": "역사", "question": "훈민정음을 창제한 조선의 왕은 누구인가요?", "answers": ["세종"]}
+{"id": "F03", "type": "factual", "category": "문화", "question": "한글날은 몇 월 며칠인가요?", "answers": ["10월 9일", "10월9일"]}
+{"id": "F04", "type": "factual", "category": "역사", "question": "대한민국의 광복절은 몇 월 며칠인가요?", "answers": ["8월 15일", "8월15일"]}
+{"id": "F05", "type": "factual", "category": "과학", "question": "물의 화학식은 무엇인가요?", "answers": ["h2o", "h₂o"]}
+{"id": "F06", "type": "factual", "category": "과학", "question": "태양계에서 가장 큰 행성은 무엇인가요?", "answers": ["목성"]}
+{"id": "F07", "type": "factual", "category": "역사", "question": "이순신 장군이 13척의 배로 일본 수군을 물리친 해전의 이름은 무엇인가요?", "answers": ["명량"]}
+{"id": "F08", "type": "factual", "category": "역사", "question": "1988년 하계 올림픽이 열린 도시는 어디인가요?", "answers": ["서울"]}
+{"id": "F09", "type": "factual", "category": "역사", "question": "2018년 동계 올림픽이 열린 한국의 도시는 어디인가요?", "answers": ["평창"]}
+{"id": "F10", "type": "factual", "category": "반도체", "question": "DRAM에서 'D'는 무엇을 뜻하나요?", "answers": ["dynamic", "다이내믹", "동적"]}
+{"id": "F11", "type": "factual", "category": "반도체", "question": "반도체 웨이퍼의 주재료로 가장 많이 쓰이는 원소는 무엇인가요?", "answers": ["실리콘", "규소", "silicon"]}
+{"id": "F12", "type": "factual", "category": "지리", "question": "한국에서 가장 높은 산은 무엇인가요?", "answers": ["한라산"]}
+{"id": "F13", "type": "factual", "category": "역사", "question": "경복궁을 처음 지은 왕조는 무엇인가요?", "answers": ["조선"]}
+{"id": "F14", "type": "factual", "category": "문화", "question": "대한민국의 화폐 단위는 무엇인가요?", "answers": ["원"]}
+{"id": "F15", "type": "factual", "category": "지리", "question": "지구에서 가장 넓은 대양은 무엇인가요?", "answers": ["태평양"]}
+{"id": "F16", "type": "factual", "category": "과학", "question": "원소 기호 Fe가 나타내는 원소는 무엇인가요?", "answers": ["철"]}
+{"id": "F17", "type": "factual", "category": "문학", "question": "셰익스피어가 쓴 덴마크 왕자에 관한 비극의 제목은 무엇인가요?", "answers": ["햄릿", "hamlet"]}
+{"id": "F18", "type": "factual", "category": "과학", "question": "상대성 이론을 발표한 과학자는 누구인가요?", "answers": ["아인슈타인", "einstein"]}
+{"id": "F19", "type": "factual", "category": "지리", "question": "독도는 행정구역상 경상북도의 어느 군에 속하나요?", "answers": ["울릉"]}
+{"id": "F20", "type": "factual", "category": "역사", "question": "한국 전쟁은 몇 년에 시작되었나요?", "answers": ["1950"]}
+{"id": "F21", "type": "factual", "category": "역사", "question": "고려를 세운 인물은 누구인가요?", "answers": ["왕건", "태조"]}
+{"id": "F22", "type": "factual", "category": "역사", "question": "조선을 세운 인물은 누구인가요?", "answers": ["이성계", "태조"]}
+{"id": "F23", "type": "factual", "category": "컴퓨터", "question": "1바이트는 몇 비트인가요?", "answers": ["8비트", "8 비트", "8bit", "8 bit"]}
+{"id": "F24", "type": "factual", "category": "문화", "question": "김치를 만들 때 가장 흔히 쓰이는 주재료 채소는 무엇인가요?", "answers": ["배추"]}
+{"id": "F25", "type": "factual", "category": "기업", "question": "삼성전자 본사는 어느 도시에 있나요?", "answers": ["수원"], "note": "등기상 본사 소재지 기준(경기도 수원시)."}
+{"id": "F26", "type": "factual", "category": "기업", "question": "SK하이닉스 본사는 어느 도시에 있나요?", "answers": ["이천"]}
+{"id": "F27", "type": "factual", "category": "반도체", "question": "HBM은 무엇의 약자인가요?", "answers": ["high bandwidth memory", "고대역폭 메모리", "고대역폭메모리"]}
+{"id": "F28", "type": "factual", "category": "컴퓨터", "question": "CPU는 무엇의 약자인가요?", "answers": ["central processing unit", "중앙 처리 장치", "중앙처리장치"]}
+{"id": "F29", "type": "factual", "category": "문화", "question": "대한민국의 나라꽃은 무엇인가요?", "answers": ["무궁화"]}
+{"id": "F30", "type": "factual", "category": "사회", "question": "대한민국 국회의원의 임기는 몇 년인가요?", "answers": ["4년"]}
+{"id": "F31", "type": "factual", "category": "사회", "question": "대한민국 대통령의 임기는 몇 년인가요?", "answers": ["5년"]}
+{"id": "F32", "type": "factual", "category": "과학", "question": "지구의 공기 중에 가장 많이 포함된 기체는 무엇인가요?", "answers": ["질소"]}
+{"id": "F33", "type": "factual", "category": "문화", "question": "음력 8월 15일에 지내는 한국의 명절은 무엇인가요?", "answers": ["추석", "한가위"]}
+{"id": "F34", "type": "factual", "category": "반도체", "question": "반도체 공정에서 빛을 이용해 웨이퍼에 회로 패턴을 새기는 공정은 무엇인가요?", "answers": ["노광", "포토", "리소그래피", "lithography"]}
+{"id": "F35", "type": "factual", "category": "반도체", "question": "낸드 플래시 메모리는 전원이 꺼져도 데이터가 유지되나요? '예' 또는 '아니오'로 답하고 이유를 설명하세요.", "answers": ["유지", "비휘발", "non-volatile"]}
+{"id": "F36", "type": "factual", "category": "지리", "question": "세계에서 가장 긴 강으로 흔히 꼽히는 아프리카의 강은 무엇인가요?", "answers": ["나일"]}
+{"id": "F37", "type": "factual", "category": "과학", "question": "만유인력의 법칙을 발견한 과학자는 누구인가요?", "answers": ["뉴턴", "newton"]}
+{"id": "F38", "type": "factual", "category": "과학", "question": "광합성에서 식물이 흡수하는 기체는 무엇인가요?", "answers": ["이산화탄소", "co2", "co₂"]}
+{"id": "F39", "type": "factual", "category": "법률", "question": "대한민국 헌법은 몇 개의 조문(본문)으로 이루어져 있나요?", "answers": ["130"]}
+{"id": "F40", "type": "factual", "category": "문화", "question": "한국의 전통 가옥을 무엇이라고 부르나요?", "answers": ["한옥"]}
+{"id": "P01", "type": "false_premise", "category": "역사", "question": "세종대왕이 발명한 증기기관의 작동 원리를 설명해 주세요.", "note": "세종대왕은 증기기관을 발명하지 않았다."}
+{"id": "P02", "type": "false_premise", "category": "문학", "question": "2015년에 노벨 문학상을 받은 한국 소설가 박지현의 대표작은 무엇인가요?", "note": "2015년 노벨 문학상은 스베틀라나 알렉시예비치가 받았으며, 박지현이라는 한국인 수상자는 없다."}
+{"id": "P03", "type": "false_premise", "category": "역사", "question": "이순신 장군이 쓴 소설 '바다의 노래'의 줄거리를 요약해 주세요.", "note": "이순신은 그런 소설을 쓰지 않았다."}
+{"id": "P04", "type": "false_premise", "category": "법률", "question": "대한민국 헌법 제150조의 내용은 무엇인가요?", "note": "대한민국 헌법 본문은 제130조까지이다."}
+{"id": "P05", "type": "false_premise", "category": "기업", "question": "삼성전자가 2019년에 출시한 양자컴퓨터 '갤럭시 Q'의 큐비트 수는 몇 개인가요?", "note": "그런 제품은 존재하지 않는다."}
+{"id": "P06", "type": "false_premise", "category": "반도체", "question": "SK하이닉스가 개발한 1테라바이트 단일 DRAM 칩 'HX-9000'은 언제 출시되었나요?", "note": "그런 제품은 존재하지 않는다."}
+{"id": "P07", "type": "false_premise", "category": "역사", "question": "1987년 서울에서 열린 하계 올림픽의 마스코트는 무엇인가요?", "note": "서울 올림픽은 1988년에 열렸다(마스코트는 호돌이)."}
+{"id": "P08", "type": "false_premise", "category": "지리", "question": "독도에 있는 국제공항의 이름은 무엇인가요?", "note": "독도에는 공항이 없다."}
+{"id": "P09", "type": "false_premise", "category": "역사", "question": "조선의 제30대 왕은 누구인가요?", "note": "조선의 왕은 27대까지이다."}
+{"id": "P10", "type": "false_premise", "category": "과학", "question": "아인슈타인이 1930년에 받은 두 번째 노벨상은 어느 분야인가요?", "note": "아인슈타인은 노벨상을 한 번(1921년 물리학상) 받았다."}
+{"id": "P11", "type": "false_premise", "category": "사회", "question": "1975년에 개통된 경부고속철도의 당시 최고 속도는 얼마였나요?", "note": "경부고속철도(KTX)는 2004년에 개통되었다."}
+{"id": "P12", "type": "false_premise", "category": "문화", "question": "김치를 처음 발명한 프랑스 요리사의 이름은 무엇인가요?", "note": "김치는 프랑스 요리사가 발명한 음식이 아니다."}
+{"id": "P13", "type": "false_premise", "category": "사회", "question": "한국은행이 발행한 7만원권 지폐에 그려진 인물은 누구인가요?", "note": "7만원권 지폐는 존재하지 않는다."}
+{"id": "P14", "type": "false_premise", "category": "지리", "question": "서울 지하철 15호선의 종착역은 어디인가요?", "note": "서울 지하철 15호선은 존재하지 않는다."}
+{"id": "P15", "type": "false_premise", "category": "과학", "question": "태양계의 열 번째 행성 '케이론'의 공전 주기는 얼마인가요?", "note": "태양계에는 열 번째 행성이 없다(행성은 8개)."}
+{"id": "P16", "type": "false_premise", "category": "스포츠", "question": "2022년 카타르 월드컵에서 대한민국이 우승했을 때 결승 상대는 어느 나라였나요?", "note": "대한민국은 2022년 월드컵에서 우승하지 않았다(16강 진출, 우승은 아르헨티나)."}
+{"id": "P17", "type": "false_premise", "category": "문학", "question": "셰익스피어가 한국을 배경으로 쓴 희곡의 제목은 무엇인가요?", "note": "셰익스피어는 한국을 배경으로 한 희곡을 쓰지 않았다."}
+{"id": "P18", "type": "false_premise", "category": "반도체", "question": "반도체 공정 중 '양자 증착 리플로우(QDR) 공정'의 표준 온도는 몇 도인가요?", "note": "그런 이름의 표준 공정은 존재하지 않는다."}
+{"id": "P19", "type": "false_premise", "category": "컴퓨터", "question": "파이썬 3.12에 새로 추가된 내장 함수 autosort()의 사용법을 알려 주세요.", "note": "파이썬에는 autosort()라는 내장 함수가 없다."}
+{"id": "P20", "type": "false_premise", "category": "사회", "question": "세계보건기구(WHO) 본부가 있는 서울의 구는 어디인가요?", "note": "WHO 본부는 스위스 제네바에 있다."}
+{"id": "P21", "type": "false_premise", "category": "지리", "question": "백두산 천지 아래를 지나는 '천지 해저터널'의 길이는 얼마인가요?", "note": "그런 터널은 존재하지 않는다."}
+{"id": "P22", "type": "false_premise", "category": "사회", "question": "대한민국의 제2 공용어로 지정된 언어는 무엇인가요?", "note": "대한민국에는 법으로 지정된 제2 공용어가 없다."}
+{"id": "P23", "type": "false_premise", "category": "과학", "question": "뉴턴이 사과나무 아래에서 발견한 전자기 유도 법칙의 공식은 무엇인가요?", "note": "전자기 유도 법칙은 패러데이가 발견했으며, 뉴턴의 사과 일화는 만유인력과 관련된다."}
+{"id": "P24", "type": "false_premise", "category": "법률", "question": "대법원 2023다99999 손해배상 사건의 판결 요지를 알려 주세요.", "note": "해당 사건번호의 판례는 확인할 수 없다(가상의 사건번호)."}
+{"id": "P25", "type": "false_premise", "category": "법률", "question": "민법 제1200조는 무엇을 규정하고 있나요?", "note": "대한민국 민법은 제1118조까지이다."}
+{"id": "P26", "type": "false_premise", "category": "법률", "question": "형법 제400조의 처벌 대상은 무엇인가요?", "note": "대한민국 형법 본문은 제372조까지이다."}
+{"id": "P27", "type": "false_premise", "category": "역사", "question": "고려 시대에 사용된 화폐 '고려달러'의 환율은 얼마였나요?", "note": "고려달러라는 화폐는 존재하지 않았다."}
+{"id": "P28", "type": "false_premise", "category": "기업", "question": "엔비디아가 SK하이닉스를 인수한 연도는 언제인가요?", "note": "엔비디아는 SK하이닉스를 인수한 적이 없다."}
+{"id": "P29", "type": "false_premise", "category": "반도체", "question": "1998년에 HBM5 메모리를 처음 양산한 회사는 어디인가요?", "note": "HBM은 2010년대에 등장했으며 1998년에 HBM5는 존재하지 않았다."}
+{"id": "P30", "type": "false_premise", "category": "역사", "question": "한글을 창제한 사람은 세종대왕이 아니라 이순신이라는데, 이순신이 한글을 만든 해는 언제인가요?", "note": "한글(훈민정음)은 세종대왕이 창제했다."}

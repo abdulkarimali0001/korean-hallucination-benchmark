@@ -1,0 +1,9 @@
+model,prompt,factual_accuracy,false_premise_hallucination_rate,false_premise_rejection_rate
+qwen2.5:3b,cautious,0.55,0.333,0.667
+exaone3.5:2.4b,cautious,0.95,0.533,0.467
+llama3.2:3b,cautious,0.425,0.733,0.267
+gemma2:2b,cautious,0.45,0.767,0.233
+qwen2.5:3b,plain,0.525,0.567,0.433
+exaone3.5:2.4b,plain,0.95,0.733,0.267
+gemma2:2b,plain,0.5,0.833,0.167
+llama3.2:3b,plain,0.4,0.933,0.067
